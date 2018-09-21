@@ -30,7 +30,4 @@ Fully functional implementations of the most popularly used machine learning alg
 
    3.4. Kernel (RBF) Support Vector Machine - Social_Network_Ads.csv 
 
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
+    
