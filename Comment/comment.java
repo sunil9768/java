@@ -1,0 +1,1 @@
+class comment{	public static void main(String args[])	{		System.out.println("single line comment is represented by //");		System.out.println("multi line comment is represented by /* */");	}}
